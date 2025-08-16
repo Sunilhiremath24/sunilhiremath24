@@ -10,17 +10,16 @@
   <img src="https://komarev.com/ghpvc/?username=sunilhiremath24&label=Profile%20views&color=0e75b6&style=flat" alt="sunilhiremath24" /> 
 </p>
 
-- 💼 Currently learning & building projects on: **Java | React | MySQL | Spring Boot**
-- 🚀 Passionate about **Full Stack Development**
-- 📫 Reach me at: **yourmail@example.com**
+- 💼 Currently learning & building projects on: **Java | React | MySQL | javaScript | Spring Boot**
+- 🚀 Passionate about **Java Full Stack Development**
+- 📫 Reach me at: **sunilhiremath747@gmail.com**
 - 📄 [My Resume](https://github.com/sunilhiremath24/my_resume/blob/main/Sunil_Resume.pdf)
 
 ---
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sunil24hiremath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
 ---
